@@ -1,0 +1,85 @@
+h1{
+    font-weight: bolder;
+    font-size: 2em;
+    width: auto;
+    background-color: rgb(37, 150, 41);
+    padding: 10px;
+    height: 36px;
+    position: relative;
+    margin: 10px 10px 10px 0px;
+    font-family: 'Heebo', sans-serif;
+    color: white;
+}
+
+h2{
+	font-family: 'Heebo', sans-serif;
+    color: #259629;
+    font-size: 25pt;
+    text-align: center;
+}
+
+h3{
+	font-size: 1.8em;
+	
+}
+
+
+
+nav{
+    font-size: 2em;
+    width: auto;
+    background-color: rgb(92, 88, 83);
+    height: 42px;
+    margin: 10px 10px 10px 0px;
+    position: relative;
+	padding-left: 10px;
+    padding-right: 10px;
+	
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+	margin-right: 15px;
+	font-family: 'Heebo', sans-serif;
+}
+
+body{
+	width: 90%;
+    margin: 20px auto;
+	
+}
+
+p{
+	font-family: georgia;
+	font-size: 15pt;
+}
+
+.intro_paragraph{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+li{
+	margin-block-end: -12px;
+}
+
+ul{
+	margin-block-end: 36px;
+	background-color: rgb(245, 243, 243);
+    border: 1px solid green;
+}
+
+section{
+	margin-block-start: 10px;
+	margin-block-end: 10px;
+}
+
+body > img{
+	position: absolute;
+    margin-top: -30em;
+    margin-left: 50em;
+    height: 60vh;
+	
+}
+
